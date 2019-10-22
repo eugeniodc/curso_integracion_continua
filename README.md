@@ -9,3 +9,5 @@ prueba
 pruebas
 
 Checkstyle
+
+PMD
